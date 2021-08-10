@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\bin\Release\LWTech.NataliaSolar.Assingment01.exe.config
+c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\bin\Release\LWTech.NataliaSolar.Assingment01.exe
+c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\bin\Release\LWTech.NataliaSolar.Assingment01.pdb
+c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\obj\Release\LWTech.NataliaSolar.Assingment01.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\obj\Release\LWTech.NataliaSolar.Assingment01.exe
+c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\obj\Release\LWTech.NataliaSolar.Assingment01.pdb
