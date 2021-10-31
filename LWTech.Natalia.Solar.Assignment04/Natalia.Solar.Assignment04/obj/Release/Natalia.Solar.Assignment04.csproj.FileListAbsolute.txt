@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2017\Projects\Natalia.Solar.Assignment04\Natalia.Solar.Assignment04\obj\Release\Natalia.Solar.Assignment04.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\Natalia.Solar.Assignment04\Natalia.Solar.Assignment04\bin\Release\Natalia.Solar.Assignment04.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\Natalia.Solar.Assignment04\Natalia.Solar.Assignment04\bin\Release\Natalia.Solar.Assignment04.exe
+C:\Users\User\documents\visual studio 2017\Projects\Natalia.Solar.Assignment04\Natalia.Solar.Assignment04\bin\Release\Natalia.Solar.Assignment04.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Natalia.Solar.Assignment04\Natalia.Solar.Assignment04\obj\Release\Natalia.Solar.Assignment04.exe
+C:\Users\User\documents\visual studio 2017\Projects\Natalia.Solar.Assignment04\Natalia.Solar.Assignment04\obj\Release\Natalia.Solar.Assignment04.pdb

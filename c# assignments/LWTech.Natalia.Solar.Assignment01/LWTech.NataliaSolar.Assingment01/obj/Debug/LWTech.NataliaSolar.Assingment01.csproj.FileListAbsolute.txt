@@ -1,5 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\bin\Debug\LWTech.NataliaSolar.Assingment01.exe.config
-c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\bin\Debug\LWTech.NataliaSolar.Assingment01.exe
-c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\bin\Debug\LWTech.NataliaSolar.Assingment01.pdb
-c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\obj\Debug\LWTech.NataliaSolar.Assingment01.exe
-c:\users\user\documents\visual studio 2017\Projects\LWTech.NataliaSolar.Assingment01\LWTech.NataliaSolar.Assingment01\obj\Debug\LWTech.NataliaSolar.Assingment01.pdb

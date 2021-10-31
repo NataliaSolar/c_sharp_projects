@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment07\LWTech.Natalia.Solar.Assignment07\bin\Debug\LWTech.Natalia.Solar.Assignment07.exe.config
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment07\LWTech.Natalia.Solar.Assignment07\bin\Debug\LWTech.Natalia.Solar.Assignment07.exe
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment07\LWTech.Natalia.Solar.Assignment07\bin\Debug\LWTech.Natalia.Solar.Assignment07.pdb
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment07\LWTech.Natalia.Solar.Assignment07\obj\Debug\LWTech.Natalia.Solar.Assignment07.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment07\LWTech.Natalia.Solar.Assignment07\obj\Debug\LWTech.Natalia.Solar.Assignment07.exe
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment07\LWTech.Natalia.Solar.Assignment07\obj\Debug\LWTech.Natalia.Solar.Assignment07.pdb

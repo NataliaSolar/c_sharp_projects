@@ -1,9 +1,0 @@
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\bin\Release\LWTech.Natalia.Solar.Assignment08.exe.config
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\bin\Release\LWTech.Natalia.Solar.Assignment08.exe
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\bin\Release\LWTech.Natalia.Solar.Assignment08.pdb
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\bin\Release\Newtonsoft.Json.dll
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\bin\Release\Newtonsoft.Json.xml
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\obj\Release\LWTech.Natalia.Solar.Assignment08.exe
-c:\users\user\documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\obj\Release\LWTech.Natalia.Solar.Assignment08.pdb
-C:\Users\User\Documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\obj\Release\LWTech.Natalia.Solar.Assignment08.csprojAssemblyReference.cache
-C:\Users\User\Documents\visual studio 2017\Projects\LWTech.Natalia.Solar.Assignment08\LWTech.Natalia.Solar.Assignment08\obj\Release\LWTech.Natalia.Solar.Assignment08.csproj.CopyComplete
